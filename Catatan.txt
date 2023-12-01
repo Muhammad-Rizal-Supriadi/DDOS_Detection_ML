@@ -1,0 +1,11 @@
+===
+1. python version 10
+
+
+============== Tahap 1
+- python -m venv venv
+- source venv/bin/activate   -> untuk pengguna Linux
+- venv\Scripts\activate      -> untuk pengguna windows
+
+============== Tahap 2
+- pip install -r requirements.txt
